@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Ctrl Z",
+  "base_artist": "ChroNoiR",
+  "createdAt": "2026-03-08T06:05:16.740814Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ctrl z",
+      "artist": "recovery girl feat. lil rhizome & ORACLE666",
+      "has_synced": false,
+      "path": "select/01_ctrl_z_recovery_girl_feat._lil_rhizome_&_ORACLE666.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ctrl z (feat. lil rhiz0me & oracle666)",
+      "artist": "recovery girl",
+      "has_synced": false,
+      "path": "select/02_ctrl_z_(feat._lil_rhiz0me_&_oracle666)_recovery_girl.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ctrl Z",
+      "artist": "Halvorsen",
+      "has_synced": true,
+      "path": "select/03_Ctrl_Z_Halvorsen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cracks (Ctrl Z Remix)",
+      "artist": "Freestylers feat. Belle Humble",
+      "has_synced": false,
+      "path": "select/04_Cracks_(Ctrl_Z_Remix)_Freestylers_feat._Belle_Humble.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "CTRL z",
+      "artist": "Kartky feat. Worek & Leśny",
+      "has_synced": true,
+      "path": "select/05_CTRL_z_Kartky_feat._Worek_&_Leśny.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "CTRL z",
+      "artist": "Kartky, Worek & Leśny",
+      "has_synced": true,
+      "path": "select/06_CTRL_z_Kartky,_Worek_&_Leśny.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ctrl+Z",
+      "artist": "Apati",
+      "has_synced": true,
+      "path": "select/07_Ctrl+Z_Apati.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cracks (Ctrl-Z Remix)",
+      "artist": "Freestylers",
+      "has_synced": false,
+      "path": "select/08_Cracks_(Ctrl-Z_Remix)_Freestylers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ctrl Z",
+      "artist": "Stabbing Westward",
+      "has_synced": true,
+      "path": "select/09_Ctrl_Z_Stabbing_Westward.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ctrl+Z",
+      "artist": "Zaoui",
+      "has_synced": true,
+      "path": "select/10_Ctrl+Z_Zaoui.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ctrl-z",
+      "artist": "Lasso",
+      "has_synced": true,
+      "path": "select/11_ctrl-z_Lasso.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "CTRL+Z (Feat. GIST, Inmo Yang)",
+      "artist": "Leellamarz",
+      "has_synced": true,
+      "path": "select/12_CTRL+Z_(Feat._GIST,_Inmo_Yang)_Leellamarz.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cracks (Ctrl - Z remix)",
+      "artist": "Freestylers",
+      "has_synced": false,
+      "path": "select/13_Cracks_(Ctrl_-_Z_remix)_Freestylers.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ctrl+Z (Live)",
+      "artist": "СЛОТ",
+      "has_synced": false,
+      "path": "select/14_Ctrl+Z_(Live)_СЛОТ.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "CTRL z",
+      "artist": "Kartky",
+      "has_synced": true,
+      "path": "select/15_CTRL_z_Kartky.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ctrl+Z",
+      "artist": "Слот",
+      "has_synced": false,
+      "path": "select/16_Ctrl+Z_Слот.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ctrl + Z",
+      "artist": "Lordofon",
+      "has_synced": true,
+      "path": "select/17_Ctrl_+_Z_Lordofon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ctrl Z",
+      "artist": "ChroNoiR",
+      "has_synced": false,
+      "path": "select/pl_01_Ctrl_Z_ChroNoiR.txt"
+    }
+  ]
+}
